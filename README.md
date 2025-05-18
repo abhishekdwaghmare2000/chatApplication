@@ -1,7 +1,8 @@
 1. Designed this chat Application in which multiple users can chat with each other.
 2. These multiple users are connected to Web socket and web socket playing a crucial role in transforming a message with users.
-3. The Application is build using technologies like Java, Spring Boot, Web sockets, JavaScript, CSS, Html using intellij Idea.
-4. Application view is added with screenshots,
+3. The application will notify about the user joined or left as well through the message.
+4. The Application is build using technologies like Java, Spring Boot, Web sockets, JavaScript, CSS, Html using intellij Idea.
+5. Application view is added with screenshots,
    
 ![Screenshot (28)](https://github.com/user-attachments/assets/724c1bf4-aa4d-439a-be7d-27122035603c)
 
